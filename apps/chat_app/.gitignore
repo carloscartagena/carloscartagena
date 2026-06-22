@@ -1,0 +1,18 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+
+# Generated platform folders (run `flutter create .` to regenerate)
+# android/ and ios/ are not committed to keep the repo lightweight.
